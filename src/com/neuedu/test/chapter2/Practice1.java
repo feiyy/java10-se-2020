@@ -8,6 +8,7 @@ public class Practice1 {
 		
 		int a = 100;
 		int b = 200;
+		b=300;
 		
 		int c = a;//c=100
 		a = b; //a = 200	
