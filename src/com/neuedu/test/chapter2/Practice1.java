@@ -9,6 +9,7 @@ public class Practice1 {
 		int a = 100;
 		int b = 200;
 		b=300;
+		b=400;
 		
 		int c = a;//c=100
 		a = b; //a = 200	
@@ -17,7 +18,6 @@ public class Practice1 {
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println("a="+a+",b="+b);
-		
 
 	}
 
