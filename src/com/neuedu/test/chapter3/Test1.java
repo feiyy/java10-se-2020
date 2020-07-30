@@ -15,8 +15,6 @@ public class Test1 {
 	            System.out.println("成绩是D");
 	        } else {
 	        	
-	        	
-	        	
 	            System.out.println("成绩是E");
 	        }
 
