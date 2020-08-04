@@ -8,7 +8,7 @@ public class Employee {
 	
 	public Employee()
 	{
-		System.out.println("创建了父类对象");
+		System.out.println(this);
 	}
 	
 	public Employee(String name, int age, String department)
